@@ -59,7 +59,7 @@ const PostViewPage = (props) => {
 				<Button
 					tilte="뒤로가기"
 					onClick={() => {
-						navigte('/');
+						navigte('/mini-blog');
 					}}
 				/>
 				<PostContainer>
@@ -80,7 +80,7 @@ const PostViewPage = (props) => {
 				<Button
 					title="댓글 작성하기"
 					onClick={() => {
-						navigte('/');
+						navigte('/mini-blog');
 					}}
 				/>
 			</Container>

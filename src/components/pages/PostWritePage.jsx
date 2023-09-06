@@ -47,7 +47,7 @@ const PostWritePage = (props) => {
 				<Button
 					title="글 작성하기"
 					onClick={() => {
-						navigte('/');
+						navigte('/mini-blog');
 					}}
 				/>
 			</Container>
